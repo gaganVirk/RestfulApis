@@ -6,4 +6,8 @@
 
         Return View()
     End Function
+
+    Function Contact() As String
+        Return "Hello Contact"
+    End Function
 End Class
